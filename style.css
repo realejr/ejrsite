@@ -34,7 +34,8 @@ header{
     text-align: center;
     padding: 5px;
     font-family: 'Courier New', Courier, monospace;
-    border-radius: 50px;
+    border-radius: 10px;
+    height: 510px;
 }
  
 body{
