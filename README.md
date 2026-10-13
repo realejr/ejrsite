@@ -7,7 +7,8 @@ Just a simple personal website made using HTML and CSS.
 **Social links**-2 direct links to my **Github** and **Instagram** profiles.
 **Journal/Lined book style**
 
+
 # Build using #
 **Vs code**- For core development.
 **HTML**- For the basic layout.
-**CSS**- For the styling used (colors,fonts,backgrounds,ruled book).
+**CSS**- For the styling used (colors,fonts,backgrounds,ruled book styling).
