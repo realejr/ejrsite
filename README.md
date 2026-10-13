@@ -6,6 +6,7 @@ Just a simple personal website made using HTML and CSS.
 **Navigation links**- 2 direct links to my **Projects** and **About me** pages.
 **Social links**-2 direct links to my **Github** and **Instagram** profiles.
 **Journal/Lined book style**
+**More detail on interests page**
 
 
 # Build using #
